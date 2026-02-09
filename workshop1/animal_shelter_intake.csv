@@ -1,0 +1,201 @@
+animal_type,age_years,intake_type,sex,condition,weight_lbs
+,5.5,Stray,Male,Healthy,42.2
+Dog,3.6,Owner Surrender,Male,Sick,46.2
+Dog,5.9,,male,Injured,56.7
+,8.6,Stray,Unknown,Sick,56.1
+dog,,Stray,Male,Sick,7.4
+Cat,3.3,stray,Male,Sick,16.2
+Cat,8.7,Stray,Unknown,,45.3
+Cat,6.3,,Female,Healthy,45.3
+,2.6,Owner Surrender,Unknown,Injured,45.3
+Dog,5.6,Owner Surrender,Female,Injured,112.1
+,2.6,stray,male,Injured,-1.0
+,2.6,,,healthy,57.7
+Rabbit,4.7,Owner Surrender,male,Injured,54.1
+Dog,1.7,Transfer,,Injured,48.0
+Rabbit,1.2,,Male,Healthy,28.7
+CAT,2.3,,Male,healthy,50.2
+Dog,1.0,stray,Male,healthy,19.5
+Dog,4.9,Owner Surrender,Female,Sick,30.3
+Dog,1.3,,,,25.3
+Cat,0.2,Owner Surrender,Male,healthy,36.6
+Cat,8.4,Transfer,Unknown,healthy,81.3
+Rabbit,3.3,stray,,Healthy,2.3
+Rabbit,4.2,Transfer,,Injured,48.7
+Dog,0.3,stray,Female,healthy,2.7
+Rabbit,2.4,,male,healthy,25.6
+Cat,4.3,stray,Female,,56.8
+,0.5,Stray,Male,Healthy,36.3
+,5.1,Owner Surrender,Unknown,,13.4
+,2.2,Owner Surrender,Unknown,healthy,20.7
+Rabbit,,Stray,Male,healthy,-1.0
+CAT,2.2,Transfer,Unknown,Healthy,20.4
+Cat,9.6,Stray,Female,Sick,39.3
+CAT,4.0,,Female,Sick,35.9
+Rabbit,0.8,,Male,healthy,22.0
+dog,,Owner Surrender,Unknown,healthy,77.9
+Dog,0.3,,,,47.7
+Cat,4.6,Owner Surrender,male,,5.5
+,1.9,Stray,,,38.7
+CAT,0.0,Stray,Female,Injured,21.8
+dog,4.6,Stray,Female,healthy,52.0
+dog,,Owner Surrender,Female,Injured,19.1
+Cat,4.5,Stray,Female,Sick,32.7
+Cat,3.7,Stray,male,healthy,45.1
+dog,3.1,Transfer,Male,healthy,52.3
+Dog,0.4,Stray,Female,Healthy,11.0
+Dog,1.8,,Unknown,healthy,28.3
+CAT,2.6,Owner Surrender,male,Sick,25.5
+Dog,7.2,Transfer,Female,healthy,21.9
+dog,5.0,stray,Unknown,Injured,70.3
+dog,1.3,Owner Surrender,Female,healthy,43.1
+Rabbit,5.0,,Male,Injured,9.8
+dog,2.8,Owner Surrender,male,,53.4
+Dog,2.0,,Male,,77.4
+,5.8,,male,Healthy,55.6
+CAT,7.1,stray,Female,healthy,-1.0
+Rabbit,6.8,Owner Surrender,Female,,25.3
+Dog,1.5,stray,male,,60.3
+CAT,3.1,stray,Unknown,Healthy,20.8
+Dog,,Owner Surrender,Unknown,Healthy,43.9
+Rabbit,6.9,Stray,Female,healthy,50.5
+dog,2.6,Stray,Female,Injured,16.5
+,3.4,stray,Male,healthy,33.8
+Rabbit,0.7,Transfer,Female,Injured,29.8
+dog,0.4,stray,male,Healthy,14.5
+Rabbit,6.4,stray,Unknown,Sick,29.9
+Cat,8.1,stray,Unknown,healthy,10.0
+,3.8,Stray,Male,Sick,67.6
+Dog,7.0,Stray,Unknown,Injured,6.4
+Dog,5.1,Stray,Unknown,healthy,26.2
+,2.1,stray,,Sick,37.6
+Cat,5.1,Transfer,male,Sick,63.8
+dog,8.6,Stray,,healthy,6.3
+Dog,3.9,Owner Surrender,Unknown,Sick,58.3
+Cat,8.7,Owner Surrender,Male,healthy,35.2
+Dog,3.9,Owner Surrender,Male,Sick,15.4
+CAT,6.5,,Unknown,Healthy,44.2
+dog,4.3,stray,Female,healthy,39.0
+CAT,3.1,Owner Surrender,,Healthy,23.0
+,4.3,stray,Unknown,,36.4
+dog,2.0,Owner Surrender,Male,Healthy,27.3
+Cat,3.3,Transfer,Male,Sick,37.3
+dog,5.1,stray,,Injured,48.2
+dog,8.4,Owner Surrender,male,Healthy,66.7
+Cat,2.4,Stray,Unknown,Healthy,10.2
+,1.6,stray,Unknown,Healthy,77.7
+dog,2.5,,male,Injured,-1.0
+,6.7,Stray,,Injured,32.0
+,5.0,Stray,,Healthy,46.8
+,2.4,,Male,,40.6
+Dog,5.5,Stray,male,Injured,22.5
+Rabbit,4.3,Stray,,Injured,30.8
+,6.9,Owner Surrender,Female,Injured,25.1
+Cat,1.9,Owner Surrender,Unknown,healthy,23.2
+Rabbit,3.0,stray,Male,Healthy,52.0
+,2.8,stray,male,,42.1
+Cat,,stray,Male,Injured,21.1
+Cat,4.9,Owner Surrender,,healthy,53.0
+CAT,4.8,stray,,Sick,41.1
+CAT,4.0,Stray,Female,Sick,51.3
+dog,3.3,Owner Surrender,Unknown,Injured,47.6
+,0.2,stray,male,,18.4
+,2.7,Stray,Male,,23.8
+Rabbit,,stray,Unknown,Healthy,49.9
+Cat,1.6,Transfer,,Injured,47.2
+,3.5,stray,Unknown,Sick,34.6
+dog,5.2,Transfer,Male,Healthy,37.3
+Dog,9.7,stray,Unknown,,60.6
+Cat,4.5,,,Healthy,23.2
+Dog,4.8,stray,Unknown,Sick,45.9
+dog,3.8,Owner Surrender,male,,31.0
+CAT,1.8,Owner Surrender,Unknown,healthy,30.6
+dog,3.9,Transfer,male,healthy,57.0
+Dog,4.2,Owner Surrender,Unknown,Injured,-1.0
+Cat,11.4,Stray,,Healthy,51.3
+Rabbit,3.4,,Female,,61.1
+,4.9,,Female,Injured,35.4
+dog,3.9,Stray,male,Healthy,48.6
+Cat,0.5,Transfer,male,Sick,28.8
+,7.4,Stray,Female,,41.5
+CAT,6.3,Stray,,Healthy,32.4
+CAT,6.4,,,,36.9
+,1.3,stray,Unknown,Healthy,46.9
+CAT,8.2,,male,Sick,18.6
+Cat,0.2,,,,76.8
+dog,5.8,Owner Surrender,Male,healthy,14.9
+Cat,10.6,Stray,Unknown,Sick,10.7
+Cat,1.0,,Unknown,Healthy,58.2
+,2.3,Stray,Female,,50.8
+Rabbit,4.3,Owner Surrender,male,Sick,47.5
+Rabbit,2.5,Stray,,Healthy,47.6
+dog,0.7,,,healthy,34.8
+,4.2,Stray,Unknown,healthy,17.1
+Rabbit,0.8,Owner Surrender,male,Healthy,36.5
+CAT,5.4,stray,male,healthy,21.5
+Rabbit,1.2,Stray,male,Sick,54.5
+CAT,8.6,,Female,healthy,32.1
+dog,1.7,Owner Surrender,,Injured,18.5
+Cat,3.0,,male,healthy,28.6
+Cat,6.4,,Female,Injured,43.3
+Rabbit,0.3,Stray,Male,,23.7
+CAT,4.7,,Unknown,Sick,18.6
+Dog,7.9,Stray,,,39.9
+Dog,0.8,stray,,,39.9
+Dog,4.6,,Unknown,healthy,24.9
+Cat,4.8,,Male,healthy,25.6
+,6.3,,Female,healthy,39.6
+Cat,0.3,Transfer,Unknown,,6.0
+,0.0,Transfer,Female,Sick,6.9
+CAT,5.6,Owner Surrender,Female,Sick,20.6
+Rabbit,4.9,Transfer,Female,Injured,30.7
+Dog,4.8,Owner Surrender,Male,Healthy,41.2
+CAT,5.0,Transfer,Male,Sick,64.5
+CAT,2.0,stray,Female,healthy,52.2
+Rabbit,4.7,Owner Surrender,male,Injured,31.8
+CAT,4.9,Transfer,,healthy,34.6
+Rabbit,1.9,stray,Male,,14.9
+dog,9.6,Transfer,male,,34.6
+Rabbit,5.4,Stray,male,healthy,29.2
+Dog,0.4,Stray,,Sick,41.5
+,6.0,stray,Female,Healthy,18.5
+,1.1,,male,healthy,45.4
+Dog,6.4,,male,Sick,65.7
+,7.5,Stray,male,Injured,32.8
+Rabbit,1.5,Stray,Female,healthy,43.0
+dog,6.9,,Female,Injured,48.8
+,5.2,Owner Surrender,Male,Sick,27.0
+dog,6.5,,Male,Sick,39.5
+Dog,9.7,Transfer,male,Sick,35.3
+dog,,Owner Surrender,Female,Sick,37.0
+CAT,1.7,Transfer,Female,,19.5
+Cat,1.3,Stray,,Sick,35.5
+CAT,1.6,Owner Surrender,male,,45.0
+Dog,3.8,Transfer,Male,Healthy,64.0
+,5.0,Transfer,,,54.2
+,4.8,Owner Surrender,Female,Injured,78.1
+dog,6.5,stray,Male,Healthy,19.7
+Rabbit,4.0,,male,Injured,52.4
+Cat,8.4,Transfer,Female,healthy,38.7
+Rabbit,3.2,,male,healthy,78.8
+Dog,12.2,,,,18.8
+,5.9,Stray,,Injured,18.2
+dog,1.4,,,healthy,23.0
+,0.8,Transfer,Unknown,healthy,-1.0
+Rabbit,5.4,Stray,male,healthy,24.5
+Rabbit,,Owner Surrender,,Healthy,19.8
+Cat,6.1,Transfer,,Healthy,38.0
+Cat,5.4,Stray,male,Sick,41.8
+dog,3.8,Stray,,Injured,72.5
+Cat,1.5,,male,healthy,54.0
+Rabbit,0.5,Owner Surrender,Female,Injured,23.5
+Rabbit,2.7,Transfer,male,Sick,17.0
+Dog,6.6,Transfer,male,,44.8
+Rabbit,4.6,,Unknown,Sick,8.6
+dog,0.3,Owner Surrender,Female,healthy,-1.0
+CAT,4.5,Transfer,Unknown,,58.6
+Dog,5.2,Owner Surrender,,,25.6
+Dog,1.3,Transfer,male,Sick,0.7
+dog,4.5,,Female,healthy,62.1
+dog,,stray,Unknown,,32.7
+Cat,0.6,Transfer,male,Sick,-1.0
